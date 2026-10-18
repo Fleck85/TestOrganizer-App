@@ -1,0 +1,146 @@
+{
+  "format": "testorganizer-public-release",
+  "version": "0.3.1",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "icon-192.png",
+      "size": 2435,
+      "sha256": "d653f50a75904ce10e57d22ae70cb7b8bf0010ddd9aee67ac0dc18b073d7f95e"
+    },
+    {
+      "path": "icon-512.png",
+      "size": 7016,
+      "sha256": "c6dbd5f9aa8f6f2789bf118db63013e5dc4de48c2eca64fe62f81b4788537c5e"
+    },
+    {
+      "path": "icon.svg",
+      "size": 250,
+      "sha256": "b4e7b26a1f9c81b04f5b7791e97bead467ecceb6e70f571e7919aaacb619668a"
+    },
+    {
+      "path": "index.html",
+      "size": 2819,
+      "sha256": "bbd65cc158c6a5c89259372da08f3991228f084355b2410445603861ed89f0c7"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "size": 474,
+      "sha256": "293155e8818a5a2a1c2b32ae7b82659de352db4f912b5d58c4485519c1cba935"
+    },
+    {
+      "path": "src/app.js",
+      "size": 11658,
+      "sha256": "3c1244deebecb88cc7ffefe1713a5db76c79a02bec8f0c0fb712bebbf4b80a2e"
+    },
+    {
+      "path": "src/backup.js",
+      "size": 1457,
+      "sha256": "f42f8f2308b91e4e8bbd38eb55a30db939d43ebf73efe5cfce6da90690818d50"
+    },
+    {
+      "path": "src/db.js",
+      "size": 4603,
+      "sha256": "2b35178da1a2a4276052798584b24782f311262750235f01021b4efadb8be581"
+    },
+    {
+      "path": "src/fonts/LICENSE_LIBERATION",
+      "size": 4414,
+      "sha256": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b"
+    },
+    {
+      "path": "src/fonts/LiberationSans-Regular.ttf",
+      "size": 139512,
+      "sha256": "f8ace1f892b2bd9dc1792ba7f097fa7588f84fed48321480e04de5390828221f"
+    },
+    {
+      "path": "src/model.js",
+      "size": 6573,
+      "sha256": "e414290bd1a99c2abd933d5b14e3315eeeda8a5f6383eb5f2390311d996ee898"
+    },
+    {
+      "path": "src/pdf.js",
+      "size": 10770,
+      "sha256": "4f0b89a8ec579809627c87e60b939803a60c01fffc41e35f5335f17df3f0515b"
+    },
+    {
+      "path": "src/personal.js",
+      "size": 341,
+      "sha256": "ce8587e41a84a99c9ecc23ae36f2bc24cd0e37fa44407fa6fee1eeb2abff02c2"
+    },
+    {
+      "path": "src/print-schema.js",
+      "size": 3964,
+      "sha256": "280039373f8076498440518cf2570baac3d110022ca62001bbeabb97a9df0097"
+    },
+    {
+      "path": "src/print-ui.js",
+      "size": 8034,
+      "sha256": "3082c7f1834c5e06620767a1759b13b966b6ed754b5c39c93c9db25217a00d5d"
+    },
+    {
+      "path": "src/pwa.js",
+      "size": 6499,
+      "sha256": "6bc654dcb8b7afee3cd79925bfec4413681f5d53b9d886b9b15b5f53ce6228a5"
+    },
+    {
+      "path": "src/runs.js",
+      "size": 8581,
+      "sha256": "054aa47c30ae0c450cf135c29844b7d742a07750e673953499dee231c4ba0481"
+    },
+    {
+      "path": "src/stage2-ui.js",
+      "size": 20701,
+      "sha256": "0888cca4b1739b6b4ed260b7dba61ff01a866558c61e25fb59c4dc9c35038324"
+    },
+    {
+      "path": "src/style.css",
+      "size": 7745,
+      "sha256": "54b2b0927fc6a28baa19baf7b9e9e261caa1a43b64fb5736f3b9235fbd073552"
+    },
+    {
+      "path": "src/vendor/FONTKIT-LICENSE.txt",
+      "size": 1330,
+      "sha256": "5fd341449e099bf1ad35a160b9f2a0f96881bfbad4e4694ac7d263e29f6c5c35"
+    },
+    {
+      "path": "src/vendor/PAKO-LICENSE.txt",
+      "size": 1104,
+      "sha256": "a04665b3b2de56c66730c1f720f528175739e4104f79073614aa611da1e85539"
+    },
+    {
+      "path": "src/vendor/PDF-LIB-LICENSE.md",
+      "size": 1070,
+      "sha256": "f2c9fc00fdb66eb99ac156ba52d734af66d8d309f65753ae809ad34ee2883bcb"
+    },
+    {
+      "path": "src/vendor/fontkit.mjs",
+      "size": 714364,
+      "sha256": "2227468f6848024029f00d7b71098df66d8f0a930adf5129171aa7ae79658ba4"
+    },
+    {
+      "path": "src/vendor/pako.mjs",
+      "size": 46080,
+      "sha256": "8f3dc5f2d194600488f16f1d28a6e10563a6ae04d99fa360b7840d4d190e0594"
+    },
+    {
+      "path": "src/vendor/pdf-lib.mjs",
+      "size": 523417,
+      "sha256": "72c052d97b4d5d9fa6cdbdcb7ad709f03d4ddb1122390cb3afeba4d88651d969"
+    },
+    {
+      "path": "sw.js",
+      "size": 3445,
+      "sha256": "d662255b7dbcf231cea5d92ad4ecc5e7adf87a8f693c2ef83ac2f84e0e6144c1"
+    },
+    {
+      "path": "version.json",
+      "size": 19,
+      "sha256": "de9328b622df7afb66ab146d8e37bac4acd54696d00879670eea2a5d6ef24744"
+    }
+  ]
+}
